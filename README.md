@@ -9,7 +9,6 @@ A relational database project built with **MySQL**, **Python**, **SQLAlchemy**, 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
@@ -51,7 +50,7 @@ The project was developed to demonstrate practical SQL skills, database normaliz
 - Pandas
 - Jupyter Notebook
 - Git
-- GitHub
+- Streamlit
 
 ---
 
