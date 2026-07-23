@@ -1,6 +1,8 @@
 # 📚 Library Management System
 
 A relational database project built with **MySQL**, **Python**, **SQLAlchemy**, and **Jupyter Notebook** to manage a library's daily operations. The project demonstrates database design, SQL querying, CRUD operations, and Python database integration.
+
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
